@@ -1,2 +1,4 @@
 # ignore geckodriver logs
 *.log
+
+virtual/
